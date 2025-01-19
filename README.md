@@ -1,2 +1,2 @@
-# application
+# Application Portal
 ## UniMak Student Application Portal
